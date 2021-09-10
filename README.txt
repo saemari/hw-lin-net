@@ -1,2 +1,2 @@
 this is
-*:fire: fine :fire:*
+:fire: fine :fire:
